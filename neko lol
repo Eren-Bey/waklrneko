@@ -14,7 +14,7 @@ game.StarterGui:SetCore("SendNotification", {
 })
 end
 
-Msgreq("FE Neko Anims V1.6","Loading, please wait while it loads",5,nil)
+Msgreq("Waklr","FE Neko is loading... (v1.6)",5,nil)
 local SongID = "http://www.roblox.com/asset/?id=198665867"
   Bypass = "death"
 if not Bypass then Bypass = "limbs" end
